@@ -55,7 +55,7 @@ career-profile:
 education:
     - degree: BSc in Systems Engineering
       university: Universidad Tecnológica Nacional
-      time: 2011 - 2012
+      time: 2002 - 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,7 +68,7 @@ education:
 
     - degree: BSc in System Analysis
       university: Universidad Tecnológica Nacional
-      time: 2007 - 2011
+      time: 2002 - 2007
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
