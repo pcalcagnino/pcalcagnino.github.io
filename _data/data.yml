@@ -52,104 +52,106 @@ career-profile:
       Experience in presales, product/roadmap definition, estimations, managing/leading teams, 
       mentoring and conducting technical interviews.
 
+      I've lead several assessments for ongoings projects to measure project health and quality, during take overs and as an external consultant. Those assessment involved both technology review and development process to identify points to improve not only related with coding but also with process, user experience, best practice, deliverables, time to market and many more that will help the client defining best practices, top-notch standards, tools, techniques and process definition.
+        - Continuous Delivery/Integration & pipelines
+        - Development flow (peer review, pair programming, code review (Pull Requests), branching strategy, release strategy)
+        - Innovation initiatives (tech opportunities and development capabilities)
+        - Documentation
+        - UX/UI guidelines
+        - Metrics & KPIs
+        - Current Backlog & Roadmap vs Current code
+        - Overall Design Review & Architecture
+        - Code Review
+        - Performance (loading time, Memory footprint, Memory Leak, Networking usage and Build Size)
+        - Unit tests Security
+        - API Review & Integration (BFF, GraphQL, microservices)
+
 education:
     - degree: BSc in Systems Engineering
       university: Universidad Tecnológica Nacional
       time: 2002 - 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Systems Engineer are trained to plan, develop, direct and control information systems, 
+        as well as manage human, physical and application resources involved in the implementation 
+        of projects.
+        He also has a training that enables him as a researcher.
 
-          - Bullet point
-          - Bullet point
+          - estudios de factibilidad 
+          - presupuestación
+          - dirección
+          - proyectos vinculados con los sistemas de información de una organización.
 
     - degree: BSc in System Analysis
       university: Universidad Tecnológica Nacional
       time: 2002 - 2007
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        The Systems Analyst has a clearly differentiated profile from the Information Systems Engineer, 
+        more oriented to the activity of the Functional Analyst and with a marked relationship with the 
+        application of Informatics to administrative management.
 
-          - Bullet point
-          - Bullet point
+          - Diagnosis of information needs, design new Systems and / or modify existing ones. 
+            Carry out the survey, analysis, design, implementation and testing of the Information Systems.
+          - Collaborate in the evaluation and selection from the point of view of Information Systems, 
+            processing and communication equipment, and basic systems.
+          - Participate in the preparation of the feasibility study of Information Systems projects.
+          - Determine the profile of the auxiliary human resources necessary for the development of 
+            the Information System; contribute to their selection and training.
+          - Carry out arbitrations, assessments and appraisals related to the means of data processing.
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: iOS Practice Lead / Subject Matter Expert (Senior Level 5)
+      time: Sept/10 - Present
+      company: Globant, Argentina
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Define technology best practices, guidelines and roadmap for the iOS Practice acrross all the organization. 
+        
+        Involved in more than one project, defining architecture, best practices, code review and mentoring the team. 
+        Work alonside with Product, UX/UI, Project managers and others teams to define product specifications, roadmaps, high 
+        and detailed estimations, execution plan, etc.
 
-          - Bullet point
-          - Bullet point
+          - Tech Manager - Mobile Studio (Nov/17 to Oct/19)
+          - iOS Architect (Oct/15 to Nov/17)
+          - iOS Software Designer (Oct/14 to Oct/15)
+          - iOS Developer (Sept/10 to Oct/14)
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+    - role: IT Specialist
+      time: Apr/07 - Sept/10
+      company: IBM, Argentina
+      details: 
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+    - role: .Net and Java Developer
+      time: May/06 - Jan/07
+      company: SPCOM, Argentina
+      details:
 
-          - Bullet point
-          - Bullet point
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 # publications:
 #    title: Publications
@@ -175,15 +177,51 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Swift
         level: 98%
         proficiency: High
 
-      - name: Javascript & jQuery
+      - name: ObjC
         level: 98%
         proficiency: High
 
-      - name: Angular
+      - name: VIPER / MVVM / MVP
+        level: 98%
+        proficiency: High
+
+      - name: URLSession / Alamofire
+        level: 98%
+        proficiency: High
+
+      - name: Git
+        level: 98%
+        proficiency: High
+
+      - name: CoreData
+        level: 98%
+        proficiency: High
+
+      - name: Rest
+        level: 98%
+        proficiency: High
+
+      - name: TDD
+        level: 98%
+        proficiency: High
+
+      - name: Fastlane / Bitrise
+        level: 98%
+        proficiency: High
+
+      - name: Agile Methodologies
+        level: 98%
+        proficiency: High
+
+      - name: WatchOS
+        level: 55%
+        proficiency: Medium
+
+      - name: SQL
         level: 55%
         proficiency: Medium
 
@@ -191,11 +229,31 @@ skills:
         level: 55%
         proficiency: Medium
 
-      - name: Ruby on Rails
+      - name: Javascript
+        level: 55%
+        proficiency: Medium
+
+      - name: Jenkins
+        level: 55%
+        proficiency: Medium
+
+      - name: SwiftUI
         level: 10%
         proficiency: Low
 
-      - name: Sketch & Photoshop
+      - name: Combine
+        level: 10%
+        proficiency: Low
+
+      - name: tvOS
+        level: 10%
+        proficiency: Low
+
+      - name: Ruby
+        level: 10%
+        proficiency: Low
+
+      - name: CircleCI
         level: 10%
         proficiency: Low
 
